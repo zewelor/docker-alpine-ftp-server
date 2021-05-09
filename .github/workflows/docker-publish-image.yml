@@ -15,7 +15,7 @@ on:
 
 env:
   # Image name at docker hub
-  IMAGE_NAME: delfer/alpine-ftp-server
+  IMAGE_NAME: zewelor/alpine-ftp-server
 
 jobs:
   # Run tests.
