@@ -9,6 +9,7 @@ on:
       - Dockerfile
       - start_vsftpd.sh
       - vsftpd.conf
+      - .github/workflows/docker-publish-image.yml
 
   # Run tests for any PRs.
   pull_request:
